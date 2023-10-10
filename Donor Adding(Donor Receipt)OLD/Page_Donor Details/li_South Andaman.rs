@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_South Andaman</name>
+   <tag></tag>
+   <elementGuidId>28eae312-592e-4315-818a-790fcfb3ba4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PopupLov_3_P3_DISTRICT_dlg']/div[2]/div/div[3]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PopupLov_3_P3_DISTRICT_dlg > div.a-PopupLOV-results.a-TMV > div.a-TMV-body > div.a-TMV-w-scroll > ul.a-IconList > li.a-IconList-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7a8eef61-156c-4353-a673-f92f7ada1d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>660</value>
+      <webElementGuid>b66012a3-6950-4f06-a4f2-e8df6f1c6c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IconList-item</value>
+      <webElementGuid>5e614fcb-f851-46d3-b04d-bdfebe11e2e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>4cd1b530-80cc-4abb-8b0e-0a34795b8f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>43805f9b-9158-4a00-af05-e9c58cc675ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>South Andaman</value>
+      <webElementGuid>5d0982cb-932f-4917-8d5b-459525f0d404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_3_P3_DISTRICT_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]</value>
+      <webElementGuid>398f2ec8-5e88-4d8a-95c2-439dfe06e8dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_3_P3_DISTRICT_dlg']/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>f1297d8b-174c-4132-b286-15bc1585e2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[3]/following::li[1]</value>
+      <webElementGuid>79758d20-d2bf-4cfb-a4d4-c3934c3243d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[4]/following::li[1]</value>
+      <webElementGuid>6f47a63a-0b64-4917-8fc4-05e9d32f11ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nicobars'])[1]/preceding::li[1]</value>
+      <webElementGuid>3c121183-176d-4ed8-bc32-eefb7485dee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='South Andaman']/parent::*</value>
+      <webElementGuid>c8797e76-c4df-4e3c-952a-a826c3e876a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>5b9ccbff-fd35-472e-9d7c-2f8abd3b3798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'South Andaman' or . = 'South Andaman')]</value>
+      <webElementGuid>7ac57f9e-5d00-43ff-b039-eaa7284eaedc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

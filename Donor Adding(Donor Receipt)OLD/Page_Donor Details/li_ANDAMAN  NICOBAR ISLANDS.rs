@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ANDAMAN  NICOBAR ISLANDS</name>
+   <tag></tag>
+   <elementGuidId>62f4b99b-85e2-4f32-8e56-748f4fcfaf5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PopupLov_3_P3_STATE_dlg']/div[2]/div/div[3]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PopupLov_3_P3_STATE_dlg > div.a-PopupLOV-results.a-TMV > div.a-TMV-body > div.a-TMV-w-scroll > ul.a-IconList > li.a-IconList-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>55b9ea2c-08a0-4cd8-9755-7cf5baaa3d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>81</value>
+      <webElementGuid>08110dde-a79e-41d7-8911-482432dc3abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IconList-item</value>
+      <webElementGuid>262ad2b4-5eab-43ce-a251-185863118470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>8e46f85d-e641-496c-85f3-e227a4b82589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9b86cb39-43ec-48eb-a0b3-a7d5b7711ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANDAMAN &amp; NICOBAR ISLANDS</value>
+      <webElementGuid>da430175-3058-4d86-924a-770cd7e26f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_3_P3_STATE_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]</value>
+      <webElementGuid>05f3f851-0c04-41a7-a3ba-05dba9f22c44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_3_P3_STATE_dlg']/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>4972c8bc-c92c-44b3-9f7b-35ce5e9af2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[2]/following::li[1]</value>
+      <webElementGuid>43f00927-e4de-4c1f-8a60-6ceecb530f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/following::li[1]</value>
+      <webElementGuid>4de93718-755c-4662-aeb0-eb5f84300b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANDHRA PRADESH'])[1]/preceding::li[1]</value>
+      <webElementGuid>d32c6d66-4173-415b-8f7c-09416ab4d1a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARUNACHAL PRADESH'])[1]/preceding::li[2]</value>
+      <webElementGuid>e08bd445-f1c9-45a1-a061-8d05410e2c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ANDAMAN &amp; NICOBAR ISLANDS']/parent::*</value>
+      <webElementGuid>f12d9577-75eb-4cfc-ba66-94e26ea1ffc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div[2]/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>281790c0-676c-4e91-8fae-0811238b2ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'ANDAMAN &amp; NICOBAR ISLANDS' or . = 'ANDAMAN &amp; NICOBAR ISLANDS')]</value>
+      <webElementGuid>5ed63021-d1be-4a5d-8ea1-75b5adbb69e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
