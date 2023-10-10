@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Payment Type_a-Icon icon-popup-lov-under</name>
+   <tag></tag>
+   <elementGuidId>7e49f88b-8768-4a1b-acc1-21901d8656db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='P8_PAYMENT_TYPE_lov_btn']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-popup-lov-under</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9a37d832-1465-4acf-bd32-9d5877d0225e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-popup-lov-under</value>
+      <webElementGuid>e853583e-6e88-474a-87f0-05e17fb5d162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P8_PAYMENT_TYPE_lov_btn&quot;)/span[@class=&quot;a-Icon icon-popup-lov-under&quot;]</value>
+      <webElementGuid>25b2f19e-6c03-442a-a263-59efda26ccfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Add Receipt(Donor Receipt)OLD/Page_Donor Details/iframe</value>
+      <webElementGuid>9375e2dd-211d-4438-81c6-ccb123b4315d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='P8_PAYMENT_TYPE_lov_btn']/span</value>
+      <webElementGuid>971c8834-1f1a-4d87-8ec8-c8960a4dc1e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>1574c990-b167-4713-a8fb-e9e52736fd1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
