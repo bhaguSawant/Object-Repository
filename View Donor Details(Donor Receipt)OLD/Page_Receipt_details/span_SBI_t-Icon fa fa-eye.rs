@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SBI_t-Icon fa fa-eye</name>
+   <tag></tag>
+   <elementGuidId>372774c1-5395-4409-a84f-272b80eafee4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='117267986842049557_orig']/tbody/tr[2]/td[14]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.t-Icon.fa.fa-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>69ab0831-ffc1-4018-8540-83cc8954734f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-Icon fa fa-eye</value>
+      <webElementGuid>3a70ad1d-08cb-44aa-9e3c-d84d4b39557f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;117267986842049557_orig&quot;)/tbody[1]/tr[2]/td[@class=&quot;u-tL&quot;]/a[@class=&quot;t-Button t-Button--success  t-Button--hot&quot;]/span[@class=&quot;t-Icon fa fa-eye&quot;]</value>
+      <webElementGuid>8b3daa3e-565b-4d88-82f4-a7e5ebc27de1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='117267986842049557_orig']/tbody/tr[2]/td[14]/a/span</value>
+      <webElementGuid>a8743826-8a9f-4620-9aa4-31ed334af8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[14]/a/span</value>
+      <webElementGuid>92397df1-3eb4-4815-a3bb-189c8af37508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
