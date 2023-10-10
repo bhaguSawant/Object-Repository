@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Status_a-Switch-toggle</name>
+   <tag></tag>
+   <elementGuidId>15c658a6-56b3-43d0-bfe3-fa6adcfa6aac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P6_STATUS_CONTAINER']/div[2]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Switch-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1da9c492-218c-4a60-a11a-f01be8857d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Switch-toggle</value>
+      <webElementGuid>66ea64aa-0cf0-4c3a-9dc9-639858086a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P6_STATUS_CONTAINER&quot;)/div[@class=&quot;t-Form-inputContainer col col-4&quot;]/div[@class=&quot;t-Form-itemWrapper&quot;]/span[@class=&quot;a-Switch&quot;]/span[@class=&quot;a-Switch-toggle&quot;]</value>
+      <webElementGuid>88684cfc-a4f9-45a8-a8a9-be41e2bd81fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Inactive(Authorized Person Donor Receipt)OLD/Page_Authorized Person Master/iframe</value>
+      <webElementGuid>09783a54-1028-4642-9480-3f2a84103c71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P6_STATUS_CONTAINER']/div[2]/div/span/span</value>
+      <webElementGuid>402b1fab-e5e4-4977-ad1c-f88ce9bbce6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>777ce052-604c-4f6a-bedc-36c679ee4f96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inactive_fa fa-edit</name>
+   <tag></tag>
+   <elementGuidId>fae87581-9b1b-46d3-92bc-4e7f1162c140</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='116543691201559931_orig']/tbody/tr[5]/td/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a620e9f-3feb-442b-802a-c0eac4da5859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit</value>
+      <webElementGuid>06599dc3-1f59-4e9d-a63c-b65403be56c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d386af8c-1cbf-48b3-b312-52bbd95b1081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>feaed9c8-0475-40c5-8c2a-8c48b05134e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;116543691201559931_orig&quot;)/tbody[1]/tr[5]/td[@class=&quot;a-IRR-linkCol u-tC&quot;]/a[1]/span[1]/span[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>b34e97a6-a4d4-48fe-9caa-4f429a12dc58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='116543691201559931_orig']/tbody/tr[5]/td/a/span/span</value>
+      <webElementGuid>03907123-ad99-4b3a-98c2-7fbcb70854ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td/a/span/span</value>
+      <webElementGuid>1e45658c-f5f7-4a42-a3c0-1a2993a259b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Edit']</value>
+      <webElementGuid>534ae4c6-0069-49a8-864e-8fedbd9979af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
