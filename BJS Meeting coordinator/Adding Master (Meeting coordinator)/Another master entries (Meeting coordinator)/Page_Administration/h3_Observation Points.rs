@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Observation Points</name>
+   <tag></tag>
+   <elementGuidId>753dea4f-5396-4675-8042-167d73b66d38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R238289924594005295']/div[2]/div[2]/ul/li[7]/a/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>27a4a779-2781-4787-9741-74df0c79d78f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-MediaList-title</value>
+      <webElementGuid>505387eb-0895-4967-ba47-d4c7365792da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Observation Points</value>
+      <webElementGuid>c277f6bd-32a8-4800-afac-edd6dc7948a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R238289924594005295&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/ul[@class=&quot;t-MediaList t-MediaList--showIcons t-MediaList--showDesc u-colors&quot;]/li[@class=&quot;t-MediaList-item&quot;]/a[@class=&quot;t-MediaList-itemWrap&quot;]/div[@class=&quot;t-MediaList-body&quot;]/h3[@class=&quot;t-MediaList-title&quot;]</value>
+      <webElementGuid>83ef32f1-d85a-4a5b-9916-b88e744830a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R238289924594005295']/div[2]/div[2]/ul/li[7]/a/div[2]/h3</value>
+      <webElementGuid>c7c52f5a-2a8b-4362-b2e9-d1c9d1dec75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Districts'])[1]/following::h3[1]</value>
+      <webElementGuid>8cc09a7a-3ffd-44d5-91b8-7df50e94f4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State List'])[1]/following::h3[2]</value>
+      <webElementGuid>2202fdc8-3524-44ee-bb19-232c04dded8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Reports'])[1]/preceding::h3[2]</value>
+      <webElementGuid>da20ee43-362b-43b8-8aa7-3ebc21ae3b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Observation Points']/parent::*</value>
+      <webElementGuid>7ac9ba14-50d4-473d-bb57-0956d53ede0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/div[2]/h3</value>
+      <webElementGuid>4452d2da-1217-45a4-97d5-346434fe8b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Observation Points' or . = 'Observation Points')]</value>
+      <webElementGuid>2747ab72-fac4-4f01-922a-2362c10ea8eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

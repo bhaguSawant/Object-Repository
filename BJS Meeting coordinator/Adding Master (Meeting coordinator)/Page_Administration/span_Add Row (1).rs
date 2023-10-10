@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Row (1)</name>
+   <tag></tag>
+   <elementGuidId>97e6d7e1-8d62-42e9-b280-b30823f130db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R238998786485148822_ig_toolbar']/div/div[6]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>59f630e2-9f70-4120-b91c-caf5d9a94ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Button-label</value>
+      <webElementGuid>33ee7822-192e-4402-b431-67dee82f835d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Row</value>
+      <webElementGuid>b13f30df-d000-41f5-b894-cd6d8c4fb234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R238998786485148822_ig_toolbar&quot;)/div[@class=&quot;a-Toolbar-groupContainer a-Toolbar-groupContainer--start&quot;]/div[@class=&quot;a-Toolbar-group&quot;]/button[@class=&quot;a-Button a-Toolbar-item&quot;]/span[@class=&quot;a-Button-label&quot;]</value>
+      <webElementGuid>5e02a77e-beb8-49d2-821c-ac9533a86a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BJS Meeting coordinator/Adding Master (Meeting coordinator)/Page_Administration/iframe_1</value>
+      <webElementGuid>4ae2db68-83b1-44d9-9794-73256c26bd86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R238998786485148822_ig_toolbar']/div/div[6]/button/span</value>
+      <webElementGuid>6c86cdc3-39a7-4d9d-8e94-55d018c11183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[1]</value>
+      <webElementGuid>b6bece39-05d4-4ee0-9389-0c8dd8235942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::span[2]</value>
+      <webElementGuid>489339f5-e026-44e5-afa1-71d00b2c9962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::span[2]</value>
+      <webElementGuid>f332d3fa-5771-4bfe-ac8a-66ad6f11b060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Level Number'])[1]/preceding::span[7]</value>
+      <webElementGuid>402dfc54-05b7-472c-90a3-c6879cd093c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Row']/parent::*</value>
+      <webElementGuid>ed642f47-7024-45cd-8c41-d33256920f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button/span</value>
+      <webElementGuid>40e20d22-c319-4f81-9a0f-7292b4601733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Row' or . = 'Add Row')]</value>
+      <webElementGuid>617c9524-3e03-4219-9e81-2536eacd2863</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

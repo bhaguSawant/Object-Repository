@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Member Master</name>
+   <tag></tag>
+   <elementGuidId>e1430bef-4334-486b-8380-c5117223b48f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R238289924594005295']/div[2]/div[2]/ul/li[4]/a/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ad7ca7a8-da93-47fe-8ad0-384b8e963182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-MediaList-title</value>
+      <webElementGuid>e9c0f42b-7f59-4456-abd2-8f7c20a822c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member Master</value>
+      <webElementGuid>6ba5200a-1d11-4413-82ff-8abae6c80c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R238289924594005295&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/ul[@class=&quot;t-MediaList t-MediaList--showIcons t-MediaList--showDesc u-colors&quot;]/li[@class=&quot;t-MediaList-item&quot;]/a[@class=&quot;t-MediaList-itemWrap&quot;]/div[@class=&quot;t-MediaList-body&quot;]/h3[@class=&quot;t-MediaList-title&quot;]</value>
+      <webElementGuid>36b5548e-dc8d-4402-bb6a-002944de5f4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R238289924594005295']/div[2]/div[2]/ul/li[4]/a/div[2]/h3</value>
+      <webElementGuid>343f604c-97a1-48a1-8da4-815ac4f1c711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member Designation'])[1]/following::h3[1]</value>
+      <webElementGuid>e83b7996-1bbb-4b5e-97f4-6e4f33b89c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participation Level'])[1]/following::h3[2]</value>
+      <webElementGuid>68deee28-dc67-4ca3-8c72-7f49f81d9256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State List'])[1]/preceding::h3[1]</value>
+      <webElementGuid>ee4a021b-f5ef-4188-aabd-4b67c4980033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Districts'])[1]/preceding::h3[2]</value>
+      <webElementGuid>644aca3d-4de8-46ea-a1d6-0ff928bea9f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Member Master']/parent::*</value>
+      <webElementGuid>11d554a0-e559-4245-94a5-3dcc52bbcfbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div[2]/h3</value>
+      <webElementGuid>2bb17ba8-655f-4203-809f-10b147946671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Member Master' or . = 'Member Master')]</value>
+      <webElementGuid>839de7b2-6a33-43f0-ab0a-071f11d74f94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

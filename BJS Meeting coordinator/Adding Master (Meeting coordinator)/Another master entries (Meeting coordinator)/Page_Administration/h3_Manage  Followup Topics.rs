@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Manage  Followup Topics</name>
+   <tag></tag>
+   <elementGuidId>202d1145-b9c2-4b9f-805c-396f609ed4bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R238289924594005295']/div[2]/div[2]/ul/li[8]/a/div[2]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>eda414e0-5ebe-4f58-a19d-02520278e693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-MediaList-title</value>
+      <webElementGuid>2784b1ff-3712-4a59-8d0d-08e2a13a5058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage  Followup Topics</value>
+      <webElementGuid>3b35a319-a81c-4e6e-8bf3-22a58c289e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R238289924594005295&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/ul[@class=&quot;t-MediaList t-MediaList--showIcons t-MediaList--showDesc u-colors&quot;]/li[@class=&quot;t-MediaList-item&quot;]/a[@class=&quot;t-MediaList-itemWrap&quot;]/div[@class=&quot;t-MediaList-body&quot;]/h3[@class=&quot;t-MediaList-title&quot;]</value>
+      <webElementGuid>b9e8dff5-5d73-4237-a706-3abed5b456d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R238289924594005295']/div[2]/div[2]/ul/li[8]/a/div[2]/h3</value>
+      <webElementGuid>3f3d656f-64d3-4700-afab-9f3b82849d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Observation Points'])[1]/following::h3[1]</value>
+      <webElementGuid>eeb8792f-cfe9-4e80-872d-732c5e70d119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Districts'])[1]/following::h3[2]</value>
+      <webElementGuid>d7d1348d-f1d5-434a-abb4-80c878bc3430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Reports'])[1]/preceding::h3[1]</value>
+      <webElementGuid>1518c3ee-6b50-4f80-bdf3-ceb0e0779bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::h3[1]</value>
+      <webElementGuid>1eb46607-ae3e-4523-9b60-e71c075dbc89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/div[2]/h3</value>
+      <webElementGuid>36dc6d5b-9c36-435e-843d-0fb54b0e945c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Manage  Followup Topics' or . = 'Manage  Followup Topics')]</value>
+      <webElementGuid>c37181ea-8c21-4da5-b2e7-377ffa273e09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
