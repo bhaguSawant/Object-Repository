@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(Value Required)_apex-item-filedrop-icon</name>
+   <tag></tag>
+   <elementGuidId>9af6393d-92bf-4033-a214-f69fb05ed352</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.apex-item-filedrop-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P331_DOC_CONTENT_DROPZONE']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>127605f2-593c-4948-be3e-d4ee7ac01524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-item-filedrop-icon</value>
+      <webElementGuid>274dc9b1-b322-46c6-8180-2ad0283fe0fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P331_DOC_CONTENT_DROPZONE&quot;)/div[@class=&quot;apex-item-filedrop-icon&quot;]</value>
+      <webElementGuid>9f37c0f0-9b1f-40e4-ac2d-087e180d6e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Upload Document (Meeting coordinator)/Page_View Meetings/iframe</value>
+      <webElementGuid>cc8247cb-150a-4fcb-9b37-b1282fad986e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P331_DOC_CONTENT_DROPZONE']/div</value>
+      <webElementGuid>0aa857d4-c484-431a-8ccb-3f9b215b5ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::div[6]</value>
+      <webElementGuid>308b16c3-657b-480b-8488-1aff73d0fe17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose File'])[1]/preceding::div[1]</value>
+      <webElementGuid>c177bd74-df0a-4143-838d-d8dece0ecb5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a file or drop one here.'])[1]/preceding::div[1]</value>
+      <webElementGuid>ae6d9acb-2602-49e8-a00a-073753dea3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>3b9c76cc-d250-4562-b809-86cde24ff115</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
