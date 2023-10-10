@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_QR Code Upload_a-Icon icon-file-browse</name>
+   <tag></tag>
+   <elementGuidId>22577860-7cf7-4d13-ab8c-5f57c49cdad8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-file-browse</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P35_QR_CODE_UPLOAD_DROPZONE']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8758bd3b-5cf2-497e-8e74-0984c1655ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-file-browse</value>
+      <webElementGuid>72870f8c-a93a-4c03-b4c5-9c619e4c8bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d891e8e7-657d-4898-802c-d92f62d4c05b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P35_QR_CODE_UPLOAD_DROPZONE&quot;)/div[@class=&quot;apex-item-filedrop-icon&quot;]/span[@class=&quot;a-Icon icon-file-browse&quot;]</value>
+      <webElementGuid>f4d38905-f435-45c7-968e-dada1a861873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Event Create(Social Event)/Page_Event Master/iframe</value>
+      <webElementGuid>1838b074-f276-4ff8-adb2-521e3122ecc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P35_QR_CODE_UPLOAD_DROPZONE']/div/span</value>
+      <webElementGuid>30c35d86-7ab3-4311-889b-aa4b3a842fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span</value>
+      <webElementGuid>b4d6c976-171b-494a-856b-0e542c755859</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
