@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_After Image Of Hand_apex-item-filedrop-icon</name>
+   <tag></tag>
+   <elementGuidId>f040528e-c203-407e-b917-4f9dc80a8e28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P3_AFTER_IMG_OF_HAND1_DROPZONE > div.apex-item-filedrop-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P3_AFTER_IMG_OF_HAND1_DROPZONE']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5c3615b-f79d-4234-89cf-8a24e5bf9a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>apex-item-filedrop-icon</value>
+      <webElementGuid>6ae43110-f2eb-43ee-b3e4-95ec18f4bd30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P3_AFTER_IMG_OF_HAND1_DROPZONE&quot;)/div[@class=&quot;apex-item-filedrop-icon&quot;]</value>
+      <webElementGuid>5a1998c0-0020-4908-aaae-690ef0530610</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P3_AFTER_IMG_OF_HAND1_DROPZONE']/div</value>
+      <webElementGuid>34d54aa7-1e9b-4788-92fd-f6224575116a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='After Image Of Hand'])[1]/following::div[5]</value>
+      <webElementGuid>8101c8e7-4ba3-4453-bb13-5af891f2e928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elbow Fold'])[1]/following::div[10]</value>
+      <webElementGuid>6bb2df01-71d7-4336-8081-1b5e5c206cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose File'])[7]/preceding::div[1]</value>
+      <webElementGuid>e6e509dd-ba3c-47e0-9ba2-199c5b7fe61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a file or drop one here.'])[4]/preceding::div[1]</value>
+      <webElementGuid>c5179769-4cc0-4825-b4f1-79de68afd20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>00da12fc-8da9-4937-8386-58efa4cf31bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Select Any --YesNo</name>
+   <tag></tag>
+   <elementGuidId>a641462a-cefd-457f-aac4-74b9060a04d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P3_IS_APPROVED</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P3_IS_APPROVED']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>40cd1f8b-4af0-4c9e-b539-57461704696a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P3_IS_APPROVED</value>
+      <webElementGuid>a2c663a4-6f5e-4baf-bc51-397a04015d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P3_IS_APPROVED</value>
+      <webElementGuid>5acf637d-a3ba-449f-a041-e759b6bf872a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select apex-page-item-error</value>
+      <webElementGuid>5b9b53f6-97b3-45d2-856b-975c11328e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9ee8469b-505b-4bed-9980-233a9512243c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>220033f1-8f66-4107-af93-abba3c0d0fce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>P3_IS_APPROVED_error</value>
+      <webElementGuid>2b1570f7-a50b-4f82-84e2-ef57cb286bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e96b4df3-1896-47dd-9500-370bd5fc6d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select Any --
+Yes
+No
+</value>
+      <webElementGuid>bb7484f4-2d56-4fcb-a2cd-2df15654b967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P3_IS_APPROVED&quot;)</value>
+      <webElementGuid>3b447cc6-699d-4ecb-8a06-63189c73d7ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P3_IS_APPROVED']</value>
+      <webElementGuid>4d891b43-2fb5-462b-9821-3b255f0e3d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P3_IS_APPROVED_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>f7190af9-62ec-4116-b860-3f86676a223d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informed to Patient'])[1]/following::select[1]</value>
+      <webElementGuid>42c5914f-2dd3-4dac-ae42-b7053cf50dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval'])[1]/following::select[1]</value>
+      <webElementGuid>0830fe41-77c0-478e-997b-2a438b097d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter is approved.'])[2]/preceding::select[1]</value>
+      <webElementGuid>9e68bfd3-230c-4494-bddb-4eb4b5fd87a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark'])[1]/preceding::select[1]</value>
+      <webElementGuid>712796ff-f1c0-4bb7-9c27-f79cf1c45366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>07eb53eb-4710-4cee-8549-a01b6a839541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P3_IS_APPROVED' and @name = 'P3_IS_APPROVED' and (text() = '-- Select Any --
+Yes
+No
+' or . = '-- Select Any --
+Yes
+No
+')]</value>
+      <webElementGuid>82891bde-5b27-4178-aee3-c42deb385c91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

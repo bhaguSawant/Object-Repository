@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Custom Extender LN-4</name>
+   <tag></tag>
+   <elementGuidId>2114c8a8-f437-4883-8ef3-5a2f098c86da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PopupLov_3_P3_APPROVAL_dlg > div.a-PopupLOV-results.a-TMV > div.a-TMV-body > div.a-TMV-w-scroll > ul.a-IconList > li.a-IconList-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PopupLov_3_P3_APPROVAL_dlg']/div[2]/div/div[3]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c594ee99-0c84-4848-8fe6-c2af8d07f3f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>62a0eaf1-7cd2-4361-8602-06e7c147a64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-IconList-item</value>
+      <webElementGuid>1a84dbc9-d05f-421a-811b-4a9fa7b4cb10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>8d7bef08-3c72-4b5d-9d66-8821b3232e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d2159485-a603-49d0-9e90-f947f007fb71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Custom Extender LN-4	</value>
+      <webElementGuid>c0ebf4f5-6141-4af4-9d44-e641e703eac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupLov_3_P3_APPROVAL_dlg&quot;)/div[@class=&quot;a-PopupLOV-results a-TMV&quot;]/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-IconList&quot;]/li[@class=&quot;a-IconList-item&quot;]</value>
+      <webElementGuid>7f2369f5-0ccd-42bf-8926-ef9ac3a205a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupLov_3_P3_APPROVAL_dlg']/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>c86daf45-c17e-4c0a-ab7d-6df31890466e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select List 5 rows. Use arrow keys'])[1]/following::li[1]</value>
+      <webElementGuid>76c64f2e-61b1-427c-8d2c-8111799097c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found.'])[2]/following::li[1]</value>
+      <webElementGuid>e9a9e51c-5352-49ff-bb4e-427beb72cfe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standard LN-4'])[2]/preceding::li[1]</value>
+      <webElementGuid>9c2f58c1-0240-461f-87a4-c9cdae84da22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unfit'])[3]/preceding::li[2]</value>
+      <webElementGuid>f11d22f3-6fa7-4319-844b-ba7c4975f762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div[2]/div/div[3]/ul/li</value>
+      <webElementGuid>289217c0-fb8b-440e-9776-a18818f37db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Custom Extender LN-4	' or . = 'Custom Extender LN-4	')]</value>
+      <webElementGuid>f091c328-3915-412d-98c4-df0ae5524347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
