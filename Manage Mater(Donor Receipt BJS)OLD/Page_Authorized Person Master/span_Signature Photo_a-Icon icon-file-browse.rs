@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Signature Photo_a-Icon icon-file-browse</name>
+   <tag></tag>
+   <elementGuidId>d6a31e6e-78e0-4b7f-a334-43e9edd0990a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='P6_DOC_CONTENT_DROPZONE']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-file-browse</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1ec9bed-c59e-4b31-9fd8-a75b3976633e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-file-browse</value>
+      <webElementGuid>53eda512-220e-44fc-b386-72dd92a8a66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0f4381a2-3a04-464b-965d-b979013551a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P6_DOC_CONTENT_DROPZONE&quot;)/div[@class=&quot;apex-item-filedrop-icon&quot;]/span[@class=&quot;a-Icon icon-file-browse&quot;]</value>
+      <webElementGuid>f2e6b1ab-703e-4db4-a16d-bbc8da7a57e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Manage Mater(Donor Receipt BJS)OLD/Page_Authorized Person Master/iframe</value>
+      <webElementGuid>c7e3d340-d432-4c77-9ce8-e269f64c9ad5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P6_DOC_CONTENT_DROPZONE']/div/span</value>
+      <webElementGuid>11347cd2-b5cc-4664-a100-0ae624eb1f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>84ed2a96-86c2-4de6-9f05-4ae9d08179d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
