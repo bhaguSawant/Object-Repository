@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Observation Points_ui-button-icon ui-i_b0a530</name>
+   <tag></tag>
+   <elementGuidId>a77a4602-61de-4f98-81d1-e59e9311902f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='t_PageBody']/div[4]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-button-icon.ui-icon.ui-icon-closethick</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2fe21a8e-857d-4e60-a47d-32f9480a1af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-icon ui-icon ui-icon-closethick</value>
+      <webElementGuid>4a61cfd4-df02-4304-b0bf-a38b3dc0f1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;t_PageBody&quot;)/div[@class=&quot;ui-dialog ui-corner-all ui-widget ui-widget-content ui-front ui-dialog--apex t-Dialog-page--standard ui-draggable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-corner-all ui-widget-header ui-helper-clearfix ui-draggable-handle&quot;]/button[@class=&quot;ui-button ui-corner-all ui-widget ui-button-icon-only ui-dialog-titlebar-close&quot;]/span[@class=&quot;ui-button-icon ui-icon ui-icon-closethick&quot;]</value>
+      <webElementGuid>cb653201-7c2f-4b24-b3d7-a5ecfc59d37e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='t_PageBody']/div[4]/div/button/span</value>
+      <webElementGuid>cf4b6311-af17-4ed1-9f0e-b65948c550ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button/span</value>
+      <webElementGuid>ff5c0cf2-cd36-4f80-83df-ce033e3a82bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

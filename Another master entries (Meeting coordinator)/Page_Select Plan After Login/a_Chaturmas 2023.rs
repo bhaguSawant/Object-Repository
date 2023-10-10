@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chaturmas 2023</name>
+   <tag></tag>
+   <elementGuidId>e6106b39-966b-49f7-871c-eec8ae0c2c08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R248692659629192549_Cards']/div/div[3]/ul/li/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-CardView-fullLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3b9fc461-fa64-44e9-b27d-f052a2ef4cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-CardView-fullLink</value>
+      <webElementGuid>874c3de2-1a3c-44fc-ba63-cf9d788e403d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ords/r/coordination/progmgt173184/dashboard?f_plan_id=91&amp;f_project_id=3&amp;clear=2&amp;session=15970039120172&amp;cs=1IYlAKoeGFGOd8VLyMh7C-NCyAEiwdnPGmi2UloL4W2lL7C07s9czFuctcaFRjaJbGi0hUH1TSc94CqBFt-f8_Q</value>
+      <webElementGuid>e8c39bec-86f3-4be4-a4d9-f4386be10be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chaturmas 2023</value>
+      <webElementGuid>9f21d28d-93f1-41d0-bf38-55edf6ff62f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R248692659629192549_Cards&quot;)/div[@class=&quot;a-TMV-body&quot;]/div[@class=&quot;a-TMV-w-scroll&quot;]/ul[@class=&quot;a-CardView-items a-CardView-items--grid3col&quot;]/li[@class=&quot;a-CardView-item&quot;]/div[@class=&quot;a-CardView has-title has-actions has-actions--full&quot;]/a[@class=&quot;a-CardView-fullLink&quot;]</value>
+      <webElementGuid>a46d0893-6f34-4569-a054-9b425b7dc90d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R248692659629192549_Cards']/div/div[3]/ul/li/div/a</value>
+      <webElementGuid>757cb5ce-6fb1-4bf1-b892-096835bfe0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found'])[1]/following::a[1]</value>
+      <webElementGuid>aebfbc69-4c26-4907-b47b-e0d3d12ef57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[1]/following::a[1]</value>
+      <webElementGuid>5110b236-2720-4724-91b6-019786de0258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chaturmas 2023'])[2]/preceding::a[1]</value>
+      <webElementGuid>cd7a661f-482b-4613-99dc-cc1ecda6b6a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ords/r/coordination/progmgt173184/dashboard?f_plan_id=91&amp;f_project_id=3&amp;clear=2&amp;session=15970039120172&amp;cs=1IYlAKoeGFGOd8VLyMh7C-NCyAEiwdnPGmi2UloL4W2lL7C07s9czFuctcaFRjaJbGi0hUH1TSc94CqBFt-f8_Q')]</value>
+      <webElementGuid>33704f48-e17e-43c8-b73d-16dc3141bff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a</value>
+      <webElementGuid>cda08219-ae34-4add-a4ab-ef625cfd3d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ords/r/coordination/progmgt173184/dashboard?f_plan_id=91&amp;f_project_id=3&amp;clear=2&amp;session=15970039120172&amp;cs=1IYlAKoeGFGOd8VLyMh7C-NCyAEiwdnPGmi2UloL4W2lL7C07s9czFuctcaFRjaJbGi0hUH1TSc94CqBFt-f8_Q' and (text() = 'Chaturmas 2023' or . = 'Chaturmas 2023')]</value>
+      <webElementGuid>095c2915-deb7-4f96-be98-7bdc903ff411</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

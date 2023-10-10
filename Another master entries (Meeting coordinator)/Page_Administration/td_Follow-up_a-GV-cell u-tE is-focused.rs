@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Follow-up_a-GV-cell u-tE is-focused</name>
+   <tag></tag>
+   <elementGuidId>54024929-a948-4224-bc10-928184ec4ca2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.a-GV-cell.u-tE.is-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R204771455490959986_ig_grid_vc']/div[3]/div[3]/table/tbody/tr[2]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b9a7f75d-7c1d-4bc6-a808-17909a33805f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c2b0cd71-2224-4010-a51e-b0dc664cfe31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>7604dac4-16f2-4e15-9069-09705fa67dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-cell u-tE is-focused</value>
+      <webElementGuid>62d5bd08-8004-4107-b99e-4399da24d1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R204771455490959986_ig_grid_vc&quot;)/div[@class=&quot;a-GV-bdy&quot;]/div[@class=&quot;a-GV-w-scroll&quot;]/table[@class=&quot;a-GV-table a-GV-table--checkbox&quot;]/tbody[1]/tr[@class=&quot;a-GV-row is-selected is-inserted&quot;]/td[@class=&quot;a-GV-cell u-tE is-focused&quot;]</value>
+      <webElementGuid>afa5126a-a43e-4d72-a75f-3e47d6a02924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BJS Meeting coordinator/Adding Master (Meeting coordinator)/Another master entries (Meeting coordinator)/Page_Administration/iframe_1</value>
+      <webElementGuid>caf401cf-42df-4673-83f4-15e4624e502d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R204771455490959986_ig_grid_vc']/div[3]/div[3]/table/tbody/tr[2]/td[3]</value>
+      <webElementGuid>00c0b7ae-a5c9-4de8-8ef6-48632c661784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]</value>
+      <webElementGuid>2fd5c34f-2daa-4822-9146-735c0bc33c9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

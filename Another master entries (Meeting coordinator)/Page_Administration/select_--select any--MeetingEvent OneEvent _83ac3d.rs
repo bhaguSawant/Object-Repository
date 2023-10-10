@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--select any--MeetingEvent OneEvent _83ac3d</name>
+   <tag></tag>
+   <elementGuidId>9bf84ca4-abed-473a-af03-0ef72bb89d71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P145_PLAN_ID</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P145_PLAN_ID']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6869e1f8-6627-4048-85f6-d1e06ee5e97e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P145_PLAN_ID</value>
+      <webElementGuid>ae2ab493-d00b-410d-a99c-eba28c897817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P145_PLAN_ID</value>
+      <webElementGuid>fba89700-1578-4459-827d-f38319cc8b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>cf31deed-f760-45a8-9b7d-89441806e949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e257e3ce-0a23-47e0-8670-80ef5d975156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c16c3274-940e-417c-a447-d0f6c157295c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--select any--
+MeetingEvent OneEvent TwoChaturmas 2023</value>
+      <webElementGuid>cbfd3514-68c9-41b7-8ba1-7ffec4480d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P145_PLAN_ID&quot;)</value>
+      <webElementGuid>6690bdef-2001-4ba4-83aa-a39f07f8d1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BJS Meeting coordinator/Adding Master (Meeting coordinator)/Another master entries (Meeting coordinator)/Page_Administration/iframe_1</value>
+      <webElementGuid>95c7f34e-0557-4bb3-9876-7cef1cc327f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P145_PLAN_ID']</value>
+      <webElementGuid>273e4bdd-e4b2-4bf0-a1ea-b7e86a2417b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P145_PLAN_ID_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>45788001-e689-46be-aa7e-5ecd5623e7c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[2]/following::select[1]</value>
+      <webElementGuid>fb5075a3-45f8-4c67-a222-53bce891bddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::select[1]</value>
+      <webElementGuid>0f63031e-bc26-4e3b-9cc1-a78e9ef40692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[1]</value>
+      <webElementGuid>b590d3ac-e77e-4c29-b66e-e23b50646303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/select</value>
+      <webElementGuid>828405a8-3a34-4575-90b1-d612e1c362b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P145_PLAN_ID' and @name = 'P145_PLAN_ID' and (text() = '--select any--
+MeetingEvent OneEvent TwoChaturmas 2023' or . = '--select any--
+MeetingEvent OneEvent TwoChaturmas 2023')]</value>
+      <webElementGuid>ad9532f3-2269-41bd-8489-8dfd9f4c5d06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
