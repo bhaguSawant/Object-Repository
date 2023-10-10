@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_State_a-Icon icon-popup-lov-under</name>
+   <tag></tag>
+   <elementGuidId>0bbf66d0-da37-4634-bd0e-76d8629ed132</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-popup-lov-under</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='P10_STATE_lov_btn']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6f36b637-8424-4a3a-96ab-ea1ba85e776e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-popup-lov-under</value>
+      <webElementGuid>8c90b8b0-4669-4674-a550-4d2e193f1f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P10_STATE_lov_btn&quot;)/span[@class=&quot;a-Icon icon-popup-lov-under&quot;]</value>
+      <webElementGuid>953cb0c9-7520-4652-a6c0-7d91764c5de2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='P10_STATE_lov_btn']/span</value>
+      <webElementGuid>da8bb372-8cbb-47fe-b094-dd727ad6ad41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button/span</value>
+      <webElementGuid>cc9f1e35-9bec-40b7-9ae8-abe299c6440b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
