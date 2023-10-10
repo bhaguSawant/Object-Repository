@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Meeting- Calendar_fc-icon fc-icon-chev_0efa78</name>
+   <tag></tag>
+   <elementGuidId>e6171383-d10d-4aa9-9894-716c88b40243</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.fc-icon.fc-icon-chevron-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R238373431837570428_calendar']/div[3]/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f9704b87-4a5e-41c8-981d-69c732d138e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-icon fc-icon-chevron-left</value>
+      <webElementGuid>bf3ed3f5-ad09-4c7d-be1e-fc343d0e4bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R238373431837570428_calendar&quot;)/div[@class=&quot;fc-header-toolbar fc-toolbar&quot;]/div[@class=&quot;fc-toolbar-chunk&quot;]/div[@class=&quot;fc-button-group&quot;]/button[@class=&quot;fc-prev-button fc-button fc-button-primary&quot;]/span[@class=&quot;fc-icon fc-icon-chevron-left&quot;]</value>
+      <webElementGuid>0dabb116-9a05-44d1-a80e-660b5031e664</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R238373431837570428_calendar']/div[3]/div/div/button/span</value>
+      <webElementGuid>d1562e4b-3328-4dba-82fc-a74dfbfffe5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button/span</value>
+      <webElementGuid>ad7c5f57-4efd-456a-834a-cb71c03c479d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
