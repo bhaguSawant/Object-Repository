@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>2aac0955-5dd4-4a65-afe3-16065c854b18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_L47672584888443583_2 > div.a-Menu-inner > span.a-Menu-labelContainer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu_L47672584888443583_2']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ae2edd6-81f5-4cd4-bec2-5ff9f831a758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Menu-labelContainer</value>
+      <webElementGuid>b5c1a80c-4a63-42d7-aa88-b580675690d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Out</value>
+      <webElementGuid>df164bec-326a-47c8-8a2d-fb85a2c86d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_L47672584888443583_2&quot;)/div[@class=&quot;a-Menu-inner&quot;]/span[@class=&quot;a-Menu-labelContainer&quot;]</value>
+      <webElementGuid>ece3f186-467f-4bb7-89ee-ce7bc4e9b23d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu_L47672584888443583_2']/div/span</value>
+      <webElementGuid>caad9b12-a7af-4394-b648-dccc19171eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::span[7]</value>
+      <webElementGuid>cf814943-bb47-45c8-86cb-4f426d63db64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Page'])[1]/following::span[10]</value>
+      <webElementGuid>1a9927b9-a941-482c-9a8f-2029177e76f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[3]/div/span</value>
+      <webElementGuid>fe6bddbc-d4ce-4891-91f3-514d62af1e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign Out' or . = 'Sign Out')]</value>
+      <webElementGuid>114ab4fb-b4bf-432b-9424-7b8dd69bcb17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

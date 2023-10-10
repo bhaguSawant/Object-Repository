@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ADMIN_a-Icon icon-down-arrow</name>
+   <tag></tag>
+   <elementGuidId>e0795103-33b3-4385-a486-8db5c2c54c59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#L47672584888443583 > span.a-Icon.icon-down-arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='L47672584888443583']/span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d215d82-5b4e-4e42-ba92-0fec7e1beb3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-down-arrow</value>
+      <webElementGuid>71c6cc6b-391d-4996-ae23-84552e43e807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dbbfdbf6-7ea3-44ba-8e54-e2a46a15b984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;L47672584888443583&quot;)/span[@class=&quot;a-Icon icon-down-arrow&quot;]</value>
+      <webElementGuid>e9c4a3eb-7553-48cc-a22d-6dafa55443ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='L47672584888443583']/span[4]</value>
+      <webElementGuid>68574f3f-d5f4-4c14-8729-16787d393d65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button/span[4]</value>
+      <webElementGuid>5ed267fe-c170-46b9-978c-0b7937f8b5c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
