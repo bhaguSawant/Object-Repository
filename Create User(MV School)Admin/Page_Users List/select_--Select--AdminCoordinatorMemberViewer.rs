@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Select--AdminCoordinatorMemberViewer</name>
+   <tag></tag>
+   <elementGuidId>778986c2-3b95-4e9f-b066-3b5030af732f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#P131_X_ROLE</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='P131_X_ROLE']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>60b078bb-e678-4629-b8bf-97c434354729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>P131_X_ROLE</value>
+      <webElementGuid>774397a1-8ae1-4bef-96eb-226f2178af69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>P131_X_ROLE</value>
+      <webElementGuid>799fc4b8-7d97-4c49-a92e-6b18450d6849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectlist apex-item-select</value>
+      <webElementGuid>c806b0d2-16e3-4f4e-871e-dd5e884d68c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-native-menu</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>48266e66-87d7-4892-8eb7-6df05e26574f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>6b085249-f053-400c-972f-f047d2e11590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Select--
+Admin
+Coordinator
+Member
+Viewer
+</value>
+      <webElementGuid>c5bc4edd-aaed-49d5-98af-38651bab03e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P131_X_ROLE&quot;)</value>
+      <webElementGuid>9c576a84-8257-4707-8032-2d3e1081c41e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Create User(MV School)Admin/Page_Users List/iframe</value>
+      <webElementGuid>a5d1376c-b546-4b12-a772-e9edc3d32807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='P131_X_ROLE']</value>
+      <webElementGuid>bfb6c0b9-c491-4eec-a08d-cc4f10650b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='P131_X_ROLE_CONTAINER']/div[2]/div/select</value>
+      <webElementGuid>b8ebd115-2b03-4bfb-b6c1-fddea428849b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::select[1]</value>
+      <webElementGuid>d4a6e6b5-6e6a-4f9d-a07b-4234c3540f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::select[1]</value>
+      <webElementGuid>e74e3fd0-3677-46cc-9a55-6b8be48ef43c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::select[1]</value>
+      <webElementGuid>ab85ae1e-711c-484b-a30f-10ab56d2fdef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>7274d361-5a32-42dc-b99d-50d99581b50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'P131_X_ROLE' and @name = 'P131_X_ROLE' and (text() = '--Select--
+Admin
+Coordinator
+Member
+Viewer
+' or . = '--Select--
+Admin
+Coordinator
+Member
+Viewer
+')]</value>
+      <webElementGuid>98d2c7bf-dbf9-460c-9591-25a512e28234</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Member_a-Icon icon-popup-lov-under</name>
+   <tag></tag>
+   <elementGuidId>2b16443e-e872-4193-afbc-e0b1cedc1e7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-popup-lov-under</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='P131_X_EMP_ID_lov_btn']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>876c575e-315e-4de8-8bd0-50daa0a19cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-popup-lov-under</value>
+      <webElementGuid>69e15919-f2d3-49b1-b8c5-83eaaff4f44b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P131_X_EMP_ID_lov_btn&quot;)/span[@class=&quot;a-Icon icon-popup-lov-under&quot;]</value>
+      <webElementGuid>cff7f2e5-9a2a-4c20-b5be-23cbe275dbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Create User(MV School)Admin/Page_Users List/iframe</value>
+      <webElementGuid>4ddb4208-e50e-4c70-9418-816fe01330eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='P131_X_EMP_ID_lov_btn']/span</value>
+      <webElementGuid>6439b619-60a3-488a-8dad-24365e7520bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>ffe00b9d-28f4-4a1c-863a-431106cafc65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
