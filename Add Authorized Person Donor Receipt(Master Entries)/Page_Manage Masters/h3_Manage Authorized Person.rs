@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Manage Authorized Person</name>
+   <tag></tag>
+   <elementGuidId>2bdb5fff-096d-457a-bd88-9662ffc927d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R116316810000709714']/div[2]/div[2]/ul/li/a/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.t-MediaList-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>d9dbc204-bce3-4a6e-8eac-2c043b873176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-MediaList-title</value>
+      <webElementGuid>e3c03ac6-49f5-463c-b217-c0f3befa8f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Authorized Person</value>
+      <webElementGuid>ace1e277-e063-4385-9103-8884893af02d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R116316810000709714&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/ul[@class=&quot;t-MediaList t-MediaList--showIcons t-MediaList--showDesc&quot;]/li[@class=&quot;t-MediaList-item&quot;]/a[@class=&quot;t-MediaList-itemWrap&quot;]/div[@class=&quot;t-MediaList-body&quot;]/h3[@class=&quot;t-MediaList-title&quot;]</value>
+      <webElementGuid>bce0de02-01cf-4d12-8e95-cbf4fb7c5479</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R116316810000709714']/div[2]/div[2]/ul/li/a/div[2]/h3</value>
+      <webElementGuid>6f57b6ed-a18c-4081-b859-c959318a4ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Masters'])[4]/following::h3[1]</value>
+      <webElementGuid>e10fdd03-148c-40f2-8078-4d95dc683fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breadcrumb'])[1]/following::h3[1]</value>
+      <webElementGuid>84743ede-d639-4ebf-a143-f33f8a6a6db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Period Master'])[1]/preceding::h3[1]</value>
+      <webElementGuid>c22b3b79-559d-496b-8caa-75955dbc5804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donor Master'])[1]/preceding::h3[2]</value>
+      <webElementGuid>a96ac8cf-eef0-4c2c-89ec-d0ca21f63ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Authorized Person']/parent::*</value>
+      <webElementGuid>0de9aa32-dfc1-4389-bdb8-02e59b497b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>3038f905-9194-425e-a3aa-27d76b8bbff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Manage Authorized Person' or . = 'Manage Authorized Person')]</value>
+      <webElementGuid>fec74971-7c2d-481a-8903-3e67ef46cd6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
