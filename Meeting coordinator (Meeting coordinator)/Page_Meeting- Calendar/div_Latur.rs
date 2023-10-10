@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Latur</name>
+   <tag></tag>
+   <elementGuidId>af11777f-c4e4-470a-b405-36a1a30a43ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R238373431837570428_calendar']/div[4]/div/table/tbody/tr[2]/td/div/div/div/table/tbody/tr[5]/td[6]/div/div[2]/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>822e4e96-646c-471b-8188-0bc185952472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-event-title fc-sticky</value>
+      <webElementGuid>a934b4b0-7b3f-4672-8066-952d14f47321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Latur</value>
+      <webElementGuid>8725e98d-ee5d-4255-844f-0b7cf13f2065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R238373431837570428_calendar&quot;)/div[@class=&quot;fc-view-harness fc-view-harness-active&quot;]/div[@class=&quot;fc-daygrid fc-dayGridMonth-view fc-view&quot;]/table[@class=&quot;fc-scrollgrid  fc-scrollgrid-liquid&quot;]/tbody[1]/tr[@class=&quot;fc-scrollgrid-section fc-scrollgrid-section-body  fc-scrollgrid-section-liquid&quot;]/td[1]/div[@class=&quot;fc-scroller-harness fc-scroller-harness-liquid&quot;]/div[@class=&quot;fc-scroller fc-scroller-liquid-absolute&quot;]/div[@class=&quot;fc-daygrid-body fc-daygrid-body-unbalanced&quot;]/table[@class=&quot;fc-scrollgrid-sync-table&quot;]/tbody[1]/tr[5]/td[@class=&quot;fc-daygrid-day fc-day fc-day-fri fc-day-past&quot;]/div[@class=&quot;fc-daygrid-day-frame fc-scrollgrid-sync-inner&quot;]/div[@class=&quot;fc-daygrid-day-events&quot;]/div[@class=&quot;fc-daygrid-event-harness&quot;]/a[@class=&quot;fc-daygrid-event fc-daygrid-dot-event fc-event fc-event-start fc-event-end fc-event-past apex-cal-green&quot;]/div[@class=&quot;fc-event-title fc-sticky&quot;]</value>
+      <webElementGuid>47335a3c-16c4-427c-a609-2068c1091802</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R238373431837570428_calendar']/div[4]/div/table/tbody/tr[2]/td/div/div/div/table/tbody/tr[5]/td[6]/div/div[2]/div/a/div</value>
+      <webElementGuid>7a4392e2-c419-4369-95c7-813a8fe956b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ariyalur'])[1]/following::div[22]</value>
+      <webElementGuid>e3cfb40b-c5ee-4a56-b27e-22bb3f7edf2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latur'])[3]/following::div[44]</value>
+      <webElementGuid>7d1a48c4-10f1-40b0-923d-b5404f8acb03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CSV'])[1]/preceding::div[8]</value>
+      <webElementGuid>0cc651bc-5a24-48cf-a44d-a31db2d7d3c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iCal'])[1]/preceding::div[8]</value>
+      <webElementGuid>90b38d34-a273-4790-84fd-99e824e04a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[6]/div/div[2]/div/a/div</value>
+      <webElementGuid>f1e8b414-cef8-47a3-8b19-c4f37891e612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Latur' or . = 'Latur')]</value>
+      <webElementGuid>1264dae3-fc8b-4087-b944-ea02d8125a69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

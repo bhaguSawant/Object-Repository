@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Seq Number_a-GV-floatingItem ui-draggab_35fa7f</name>
+   <tag></tag>
+   <elementGuidId>f17f0a56-d31c-4283-9372-37783a627089</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Seq Number'])[3]/following::div[23]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.a-GV-floatingItem.ui-draggable.is-expanded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0f9c6f1-546a-4333-b42c-f989b3b9a150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-GV-floatingItem ui-draggable is-expanded</value>
+      <webElementGuid>77f2312b-543d-4d5a-b1f0-ed065d56d23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>74790b69-1f6f-4c0b-b08a-1f629e23e5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-owning-region</name>
+      <type>Main</type>
+      <value>R239194318834513813_ig_grid_vc</value>
+      <webElementGuid>7cfa34c1-4a52-4b65-8867-11176a7be485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;page-322 app-PROGMGT173184&quot;]/body[@class=&quot;t-Dialog-page t-Dialog-page--standard t-PageTemplate--dialog t-PageBody--noContentPadding apex-side-nav apex-icons-fontapex apex-theme-vita-bjs-02 js-dialogReady&quot;]/div[@class=&quot;a-GV-floatingItem ui-draggable is-expanded&quot;]</value>
+      <webElementGuid>e66ab9c2-ada4-407c-9e05-6a2806cded9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Meeting coordinator (Meeting coordinator)/Page_View Meetings/iframe</value>
+      <webElementGuid>f1859c0c-40c5-4d4b-b548-afad67a8d303</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seq Number'])[3]/following::div[23]</value>
+      <webElementGuid>9b6e3568-18e6-4596-8311-6a5e5f7eda39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason'])[3]/following::div[27]</value>
+      <webElementGuid>9d2dd075-8fb3-4dfd-8545-13c8b67ca1a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]</value>
+      <webElementGuid>4736e1fb-ad78-4570-a500-d610be35233c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
