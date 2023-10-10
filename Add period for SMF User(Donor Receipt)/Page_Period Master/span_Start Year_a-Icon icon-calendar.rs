@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start Year_a-Icon icon-calendar</name>
+   <tag></tag>
+   <elementGuidId>c39fe73a-ed6e-44f0-9f63-c5710c1af2a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a-date-picker[@id='P23_START_YEAR']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-Icon.icon-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>540611f8-3733-4dac-8393-a5d440e27b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-Icon icon-calendar</value>
+      <webElementGuid>ac035353-130d-47cd-be15-34175ba82324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;P23_START_YEAR&quot;)/button[@class=&quot;a-Button a-Button--calendar&quot;]/span[@class=&quot;a-Icon icon-calendar&quot;]</value>
+      <webElementGuid>e09b0b88-58e2-4aa7-a4ae-3f9bce414c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Add period for SMF User(Donor Receipt)/Page_Period Master/iframe</value>
+      <webElementGuid>c554face-0abf-46a4-b8ce-69d8c1a19f6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a-date-picker[@id='P23_START_YEAR']/button/span</value>
+      <webElementGuid>1e2de9fb-bad1-4717-96f0-8e0c74d973cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>45a94129-4437-4b4d-b6ca-68be1764044a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
