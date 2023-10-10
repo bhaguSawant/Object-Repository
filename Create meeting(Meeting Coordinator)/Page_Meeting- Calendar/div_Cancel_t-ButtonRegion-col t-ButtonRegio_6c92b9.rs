@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cancel_t-ButtonRegion-col t-ButtonRegio_6c92b9</name>
+   <tag></tag>
+   <elementGuidId>17758020-9a95-4e80-9174-3d0273e0d3e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.t-ButtonRegion-col.t-ButtonRegion-col--content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R238384019135587591']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>74b07c97-4354-4291-ae56-2b558a23b8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-ButtonRegion-col t-ButtonRegion-col--content</value>
+      <webElementGuid>94a6e936-c469-4c90-9f77-c4c227f34e1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R238384019135587591&quot;)/div[@class=&quot;t-ButtonRegion-wrap&quot;]/div[@class=&quot;t-ButtonRegion-col t-ButtonRegion-col--content&quot;]</value>
+      <webElementGuid>8737ea5f-e2ec-4b98-bd3f-22f6dfb81cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Create meeting(Meeting Coordinator)/Page_Meeting- Calendar/iframe</value>
+      <webElementGuid>b8ed5478-bddd-49a3-86d6-00bd0d344106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R238384019135587591']/div/div[2]</value>
+      <webElementGuid>8af43c65-bdb4-435e-a68d-20a09293f837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[1]</value>
+      <webElementGuid>649bd3be-afcf-4749-ba5f-009cb563a3bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Value Required)'])[7]/following::div[10]</value>
+      <webElementGuid>80c3f59a-9edb-4c35-ae59-e2ce5007ef01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::div[2]</value>
+      <webElementGuid>2ca4fc80-35b0-478f-8d31-a8f5b826a054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/div/div/div[2]</value>
+      <webElementGuid>6d238848-5ccc-43b8-8bd9-8119b3536180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
