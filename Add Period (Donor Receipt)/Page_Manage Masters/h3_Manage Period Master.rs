@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Manage Period Master</name>
+   <tag></tag>
+   <elementGuidId>c1d77539-36fe-4d74-ba7e-95f28e6d1f5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='R116316810000709714']/div[2]/div[2]/ul/li[2]/a/div[2]/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>629fbc37-2e0d-4cc6-9ef4-d1ba472008ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>t-MediaList-title</value>
+      <webElementGuid>32e3539e-184e-4c12-8dd3-f69846d86a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Period Master</value>
+      <webElementGuid>14251627-6ff7-4325-81bb-d490084ab06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;R116316810000709714&quot;)/div[@class=&quot;t-Region-bodyWrap&quot;]/div[@class=&quot;t-Region-body&quot;]/ul[@class=&quot;t-MediaList t-MediaList--showIcons t-MediaList--showDesc&quot;]/li[@class=&quot;t-MediaList-item&quot;]/a[@class=&quot;t-MediaList-itemWrap&quot;]/div[@class=&quot;t-MediaList-body&quot;]/h3[@class=&quot;t-MediaList-title&quot;]</value>
+      <webElementGuid>b62316f0-86b5-4272-9324-d625273da60e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='R116316810000709714']/div[2]/div[2]/ul/li[2]/a/div[2]/h3</value>
+      <webElementGuid>89c18e6b-e70c-4c97-b32c-9ae72deb4951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Authorized Person'])[1]/following::h3[1]</value>
+      <webElementGuid>0ab98353-ee67-4821-ba87-a6439ebe87a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Masters'])[4]/following::h3[2]</value>
+      <webElementGuid>f59b34f1-4a78-4317-8485-a8cbae6a1a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donor Master'])[1]/preceding::h3[1]</value>
+      <webElementGuid>525e09db-7226-4de2-9b3b-b02fcb8cddc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Donor Type'])[1]/preceding::h3[2]</value>
+      <webElementGuid>a628bb63-bb13-42c9-9318-c22a66aaf070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Period Master']/parent::*</value>
+      <webElementGuid>63c365e9-a315-42b2-9e94-02d54ee88181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div[2]/h3</value>
+      <webElementGuid>a02af06e-d373-4bb5-8b41-65b6fe5f178b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Manage Period Master' or . = 'Manage Period Master')]</value>
+      <webElementGuid>99718188-2add-4ee4-9208-bad54c766b7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
